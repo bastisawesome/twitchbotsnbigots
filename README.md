@@ -1,3 +1,9 @@
+## Twitch Bots n Bigots
+
+This is an archive of the original repo by Hackbolt. Pull requests are welcome to update the current lists.
+
+## Original
+
 This is a collection of bot account names. NamelistMASTER contains all the names we recommend you ban in your channel
 
 Sometimes people get on that list by accident, in that case they will be removed from the namelist and put into the False-positive list so you can unban them.
